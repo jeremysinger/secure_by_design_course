@@ -1,0 +1,23 @@
+# Secure by Design Systems Engineering
+
+15 credits, semester 1 course for MSc Cybersecurity students.
+
+## Short Description of Course
+
+This course covers systems-level design from a security perspective,
+examining the full system stack from processor, to operating system,
+to application. The course is informed by secure-by-design thinking.
+The course will also cover security concerns for AI-based systems.
+
+
+## Course Aims
+
+This course aims to explore ...
+
+## Intended Learning Outcomes of Course
+
+By the end of this course students will be able to:
+
+* assess the merits of micro-architectural exetensions, such as tagged
+memory, for improving system security
+* ...
